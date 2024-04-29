@@ -1,0 +1,29 @@
+.mypage_index{
+    display: flex;
+    flex-direction: column;
+    padding-top: 50PX;
+}
+.mypage_index .member_wrap{
+    text-align: center;
+}
+.mypage_index .member_wrap{
+
+}
+.mypage_index .menu_wrap{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px 30px;
+}
+.mypage_index .menu_wrap .box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: calc(33.3333% - 20px);
+    border: 1px solid #000;
+    border-radius: 15px;
+    aspect-ratio: 1 / 1;  
+    /* 위 코드 박스 비율 정하는 코드 1/1 1:1 비율을 정사각형 */
+}
+.mypage_index .menu_wrap .box .btn{
+
+}

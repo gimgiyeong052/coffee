@@ -1,0 +1,63 @@
+/* 폰트 start */
+@font-face {
+	font-family: 'Pretendard';
+	src: url('/user/fonts/Pretendard-Light.woff') format('woff'),
+	url('/user/fonts/Pretendard-Light.woff2') format('woff');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Pretendard';
+	src: url('/user/fonts/Pretendard-Regular.woff') format('woff'),
+	url('/user/fonts/Pretendard-Regular.woff2') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Pretendard';
+	src: url('/user/fonts/Pretendard-Medium.woff') format('woff'),
+	url('/user/fonts/Pretendard-Medium.woff2') format('woff');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Pretendard';
+	src: url('/user/fonts/Pretendard-SemiBold.woff') format('woff'),
+	url('/user/fonts/Pretendard-SemiBold.woff2') format('woff');
+	font-weight: 600;
+}
+@font-face {
+	font-family: 'Pretendard';
+	src: url('/user/fonts/Pretendard-Bold.woff') format('woff'),
+	url('/user/fonts/Pretendard-Bold.woff2') format('woff');
+	font-weight: 700;
+}
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'JalnanGothic';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_231029@1.1/JalnanGothic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'JSArirangPPURI-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/JSArirangPPURI-RegularA1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+/* 폰트 end */
+
+html,body{
+    font-family: "Noto Sans KR", sans-serif;
+}
